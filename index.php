@@ -41,7 +41,7 @@ Testate il tutto creando qualche istanza e invocando l'unica funzione che avete 
 
     echo '<p> La stanza è la numero: ' . $room_one->getRoom() . '</p>';
     echo '<p> La stanza ha una ' . $room_one->getBagno_options() . '</p>';
-    echo '<p> La stanza ha una: ' . $room_one->getRoom_view() . '</p>';
+    echo '<p> La stanza ha una ' . $room_one->getRoom_view() . '</p>';
 
     echo '<br>';
 
